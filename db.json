@@ -1,34 +1,188 @@
 {
-  "projects": [
+  "data": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "id": 3752,
+      "title": "The Madonna of the Rosary",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAIqKd4+Pe5WVgJWUgZaVgZaXgpiYhJmZhJqahpubh52diaOijaink6qqlAAAAAAAACH5BAAAAAAALAAAAAADAAUAAAQLMAUlziiIKGDaYhEAOw==",
+        "width": 2218,
+        "height": 3258,
+        "alt_text": "A work made of engraving on ivory laid paper."
+    },
+    "dimensions": "Sheet: 27.1 × 18.5 cm (10 11/16 × 7 5/16 in.)",
+    "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440/45-1503",
+    "place_of_origin": "Germany",
+    "medium_display": "Engraving on ivory laid paper"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "id": 6010,
+      "title": "Number 19",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKlyV6pyWqt2Xad9W654XYx+d6qMUqyRV5OCdqeAaa+DbLWIaLeLcLKKd7ePgAAAACH5BAAAAAAALAAAAAADAAUAAAQLUASAFClptHUcMxEAOw==",
+        "width": 16610,
+        "height": 10836,
+        "alt_text": "Blurry rectangles of yellow, gray, and black float against background of orange."
+    },
+    "dimensions": "172.8 × 101.8 cm (68 × 40 1/8 in.)",
+    "artist_display": "Mark Rothko (Marcus Rothkowitz)\nAmerican, born Russia (Latvia), 1903–1970",
+            "place_of_origin": "United States",
+            "medium_display": "Oil on canvas"
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "id": 3816,
+      "title": "Ornamental Panel With Two Lovers",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPQAAGpoVXJxXXRyXXVzXnd2Ynh2YHh3Ynl3Y3l3ZHt5ZHt5ZX17ZXx6Zn17Znx6Z358ZoB+aIF+aYF/aYB/a4J/a4OAaoKAa4OBa4KAbYOBbYWDb4aEb42LdI6Md4+MeAAAACH5BAAAAAAALAAAAAAHAAUAAAUdoBMYVzJo0wFxT9VhzbVZkccUSyM1GQIIBMWBEgIAOw==",
+        "width": 3372,
+        "height": 2284,
+        "alt_text": "A work made of engraving printed in black, on ivory laid paper."
+    },
+    "dimensions": "16.3 × 23.9 cm (6 7/16 × 9 7/16 in.)",
+    "artist_display": "Israhel van Meckenem the Younger\nGerman, c. 1440/45-1503",
+            "place_of_origin": "Germany",
+            "medium_display": "Engraving printed in black, on ivory laid paper"
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
-    }
+      "id": 9505,
+      "title": "Two Studies of a Roma Woman and a Roma Boy in a Large Hat",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJR+ZZaBaZ+JcJ+Kc6CKcKCLcqOMcqONcqKMc6ONc6SNcqWOdaeSeKmTeauUe66Yf7Obf6+agLCagbKcgbOcgbOdgbKcgrOdgrafhLulirymi8GrjsavkgAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYLZNE6c5BxVcEqYwhDBUUAIYSLQ0hfWEADs=",
+        "width": 5824,
+        "height": 5093,
+        "alt_text": "A work made of pen and black iron gall ink on tan laid paper."
+    },
+    "dimensions": "23 × 26 cm (9 1/16 × 10 1/4 in.)",
+    "artist_display": "Jacques de Gheyn II\nDutch, 1565-1629",
+            "place_of_origin": "Netherlands",
+            "medium_display": "Pen and black iron gall ink on tan laid paper"
+
+    },
+    {
+      "id": 7122,
+      "title": "Seated Boy",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAANXCo9bDpdfDpdnEptjFptjFp9nGqdrGqtvGqtzIq9vIrNzJrOHMseHNseXRtwAAACH5BAAAAAAALAAAAAADAAUAAAQLsDmWDiIDFBGWMhEAOw==",
+        "width": 1467,
+        "height": 2250,
+        "alt_text": "A work made of graphite on cream laid paper."
+    },
+    "dimensions": "50.4 × 32.9 cm (19 7/8 × 13 in.)",
+    "artist_display": "Max Beckmann\nGerman, 1884-1950",
+    "place_of_origin": "Germany",
+    "medium_display": "Graphite on cream laid paper"
+    },
+    {
+      "id": 11294,
+      "title": "Half-Length Female Nude",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFlRTWpjXGtkXHJoX3VoY3drYnZsY3BqZHNrZHNvZ3lvZXNwaHNxaXZybH93a3l1bYZ+c4+CdZOCc5WGeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NMIEHMASxIUDmJMETFISggAOw==",
+        "width": 14989,
+        "height": 18651,
+        "alt_text": "A work made of oil on canvas."
+    },
+    "dimensions": "Canvas: 80.3 × 64.1 cm (31 5/8 × 25 1/4 in.); Panel: 81.6 × 65.4 cm (32 1/8 × 25 3/4 in.)",
+    "artist_display": "Pablo Picasso\nSpanish, active France, 1881–1973",
+    "place_of_origin": "Spain",
+    "medium_display": "Oil on canvas"
+
+    },
+    {
+      "id": 11723,
+      "title": "Woman at Her Toilette",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE9MQV1XRl5YRmNdT2JgVGplV3RtW3JsX35wXW9rYHl3cX17eYJ4a4+Hd4GBfoaDf4iEfY6JgYmKhZuXjZWSkJaSkJydlpqZmZqamp+dmpqbnamelqCemqShk6Cgm6ujnK6nn7m0rbSzsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwABDYnBYOgTFAvHAcA6JyIZyyQwAFZHGMykIPiEQpBEEADs=",
+        "width": 4946,
+        "height": 3703,
+        "alt_text": "Painted portrait dominated by loose, large brushstrokes of a woman, seen from the back, wearing a gauzy white off-the-shoulder dress and black choker, blond hair swept up, examining herself in a mirror at left. The background is a feathered swirl suggesting floral pattern in cool pale tones of gray, purple, pink, and blue."
+    },
+    "dimensions": "60.3 × 80.4 cm (23 3/4 × 31 5/8 in.)",
+    "artist_display": "Berthe Morisot\nFrench, 1841-1895",
+    "place_of_origin": "France",
+
+    "medium_display": "Oil on canvas"
+
+    },
+
+    {
+      "id": 14572,
+      "title": "The Millinery Shop",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEMtIk40KE83KlhHLVxELlNPN1hLMVJOP19UN1dYM1lUOVpUP2dAIWlKKHZKKXZLKWRNPGpbMGpaNGtaOkxUTF9dRlJaS15YSV5kUnZpRH12W4ZkM49uRI52VQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AUtFWZxHZIdExFEybAJQGE00sNQmqOEADs=",
+        "width": 5003,
+        "height": 4543,
+        "alt_text": "Impressionist painting of woman wearing green dress trying on hats."
+    },
+    "dimensions": "100 × 110.7 cm (39 3/8 × 43 9/16 in.)",
+ "artist_display": "Edgar Degas\nFrench, 1834-1917",
+            "place_of_origin": "France",
+            "medium_display": "Oil on canvas"
+
+    },
+
+    {
+      "id": 13096,
+      "title": "The Baptism of the Eunuch",
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAK2biK6biLejj7yqlsKvmsiznsi1n8m2ocu2oMq3o865os27p867qM+8qdHArNXBrdjDrNnFrdjFr9vFrtvJteHNtuDMt+LNt+DOuOLOuOPRu+PRvePTwAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKdV2bVhSARNFjUYgmItBBAUjCMdydOEADs=",
+        "width": 2625,
+        "height": 2250,
+        "alt_text": "A work made of etching on buff laid paper."
+    },
+    "dimensions": "Plate: 18.2 × 21.3 cm (7 3/16 × 8 7/16 in.); Sheet: 18.7 × 21.6 cm (7 3/8 × 8 9/16 in.)",
+
+"artist_display": "Rembrandt van Rijn\nDutch, 1606-1669",
+            "place_of_origin": "Holland",
+            "medium_display": "Etching on buff laid paper"
+  },
+  {
+    "id": 20199,
+    "title": "Final Study for \"Bathers at Asnières\"",
+    "thumbnail": {
+      "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAD5hSWxVTHRcTXZmX39nWVRjZGxpYYF5XYF1cn+DX3OGbnyDcJCVaICAdYyHcpGGdsCafH59kIaFiYuIjJmVgpeYh5uQmayfgKqdi7WTjLObjqOXk6GUlaqbk7GhmYqUpZ+dqI2YsZ6isKSkqreqqqipsLiyupmkwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwI/oFOKASpUFxTTakBQAw+Pi0XQahcGBgclYJAgCRBBwJCaRIAA7",
+      "width": 10657,
+      "height": 6653,
+      "alt_text": "A work made of oil on panel."
+  },
+
+  "dimensions": "15.8 × 25.1 cm (6 1/4 × 9 7/8 in.)",
+  "artist_display": "Georges Seurat\nFrench, 1859-1891",
+            "place_of_origin": "France",
+            "medium_display": "Oil on panel"
+  },
+  {
+    "id": 23700,
+    "title": "The Praying Jew",
+    "thumbnail": {
+      "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACIjIi4vLTQxKjc2Mj87NDw7NkZCO1NPRlhWUWFgV2NhXGplW2xpXGxsZm9vaIJ6a4mKgZWRg5SRh6ennQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDMQQCMtATJBjHI8USEYSQgAOw==",
+      "width": null,
+      "height": null,
+      "alt_text": "Painting of man who is seated with his hands over his lap. He is dressed in prayer clothes, with a white shawl draped over his head and shoulders. His facial features and hands are slightly distorted, and the background is an abstract pattern of black and white."
+  },
+  "dimensions": "116.8 × 89.4 cm (46 × 35 3/16 in.)",
+  "artist_display": "Marc Chagall\nBorn Vitebsk (formerly Russian Empire, now Belarus), 1887; died Saint-Paul, France, 1985",
+  "place_of_origin": "France",
+  "medium_display": "Oil on canvas"
+
+  },
+  {
+    "id": 21977,
+    "title": "Melon-Shaped Ewer with Stylized Flowers",
+    "thumbnail": {
+      "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKWnorG0qL28tsPGrMbFyNHSztPUz9rez83N1dbV19bW29PT3tbW3tnZ397g1ePn0eDg3tra4tra49vb5ODg5+Pi6Obk6+Ti7Obl7QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYHRZ2NRATqEwxxMgkjEAS5UIBBUCADs=",
+      "width": 2265,
+      "height": 2250,
+      "alt_text": "A work made of stoneware with celadon glaze and underglaze incised decoration."
+  },
+  "dimensions": "18.5 × 19.6 × 15.7 cm (7 1/4 × 7 3/4 × 6 3/16 in.)",
+  "artist_display": "Korea",
+  "place_of_origin": "Korea",
+  "medium_display": "Stoneware with celadon glaze and underglaze incised decoration"
+
+  }
+
+
+
+
   ]
 }
 
